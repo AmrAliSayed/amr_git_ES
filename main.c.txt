@@ -2,4 +2,5 @@ int main (void)
 {
 int y=4;
 int u=8;
+int c=9;
 }
